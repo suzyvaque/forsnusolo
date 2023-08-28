@@ -1,0 +1,3 @@
+[submodule "forsnusolo-private"]
+	path = forsnusolo-private
+	url = https://github.com/suzyvaque/forsnusolo-private.git
